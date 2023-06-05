@@ -29,7 +29,7 @@ embedded-postgres uses Go modules and as such can be referenced by release versi
 following to add the latest release to your project.
 
 ```bash
-go get -u github.com/fergusstrange/embedded-postgres
+go get -u github.com/RVennu/embedded-postgres
 ``` 
 
 ## How to use
